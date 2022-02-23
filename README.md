@@ -1,9 +1,9 @@
 # PlanA_VScode
 
-<b>JavaScript</b></br></br>
+### JavaScript
 
 <b>Submitted by</b></br>
-63130500007 Kochathong chahahirun</br></br>
+63130500007 Kochathong chahahirun</br>
 
 <b>Present</b></br>
 Asst. Prof. Dr. Umaporn Supasitthimethee</br>

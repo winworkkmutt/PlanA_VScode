@@ -48,7 +48,7 @@ if (userStatus == 0){
 } else if (userStatus == 3){
     managerStatus = 3
 }else {
-    console.log('SH.....')
+    console.log('error: plese put in number between 0-3 on user status.')
 };
 
 //conditional if-else :: talk content User  
@@ -62,7 +62,7 @@ if (userStatus == 0){
     console.log(charactor[1] +`Yes! I want to Buy a car`)
     console.log(SelectCarHere())
 } else {
-    console.log('SH.....')
+    console.log('error: plese check your statement.')
 };
 
 //conditional if-else :: talk content Manager
@@ -76,6 +76,6 @@ if (managerStatus == 0) {
     console.log(charactor[2] +` Thankyou and good luck for drive`)
     console.log(PriceCar())
 } else {
-    console.log('WT.....')
+    console.log('error: plese put in number between 0-3 or plese check your statement again.')
 };
 

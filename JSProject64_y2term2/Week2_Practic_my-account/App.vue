@@ -120,8 +120,7 @@ const moneyAccount = [{
                       {
                       name:'commission',
                       amount: 5500
-                      },
-]
+                      }]
 const show = true
 </script>
 
